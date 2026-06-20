@@ -112,7 +112,7 @@ After the copy is completed:
 Download the AppSheet mobile application:
 
 Android:
-https://play.google.com/store/apps/details?id=com.google.appsheet.whitelabel.guidde
+[https://play.google.com/store/apps/details?id=com.google.appsheet.whitelabel.guidde](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en-US)
 ![app sheet playstore](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190222.jpg)
 ![app sheet installed](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190239.jpg)
 ---
