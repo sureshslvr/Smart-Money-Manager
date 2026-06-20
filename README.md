@@ -84,6 +84,7 @@ https://www.appsheet.com/Template/AppDef?appName=InventoryManagementTemplate-555
 ## Step 2: Create Your Own Copy
 
 1. Click **Copy App**
+![copy app](screenshots/click on copy app .jpg)
 2. Select **Copy App Details**
 3. Click **Copy App**
 4. Wait for AppSheet to create your personal copy
