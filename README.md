@@ -99,7 +99,11 @@ After the copy is completed:
 
 1. Open your copied app
 2. Click **Deploy App** from the top-left corner
+![deploy button](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/deploy%20button.jpg)
 3. Complete any deployment checks shown by AppSheet
+![deploy 1](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/deploy%201.jpg)
+![deploy 2](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/deploy%202.jpg)
+![depoy 3](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/deploy%204.jpg)
 
 ---
 
@@ -109,16 +113,20 @@ Download the AppSheet mobile application:
 
 Android:
 https://play.google.com/store/apps/details?id=com.google.appsheet.whitelabel.guidde
-
+![app sheet playstore](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190222.jpg)
+![app sheet installed](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190239.jpg)
 ---
 
 ## Step 5: Login
 
 Login to the AppSheet mobile application using the same Google account used to deploy the app.
+![Login to app sheet](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190248.jpg)
 
 After login, the application will automatically appear in your account.
+![deployed app](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190324.jpg)
 
 ---
+![app screen](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190335.jpg)
 
 # First Time Configuration
 
@@ -131,15 +139,18 @@ To start using the app:
 3. Open the record
 4. Click the **Three Dots Menu**
 5. Select **Edit**
+![edit button](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190351.jpg)
 6. Update:
 
    * Date
    * Salary Amount
    * Income Details
+![details updated](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190427.jpg)
 7. Click **Save**
 
-Refer to the screenshots provided in this repository.
+![after save](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190435.jpg)
 
+![salary updated](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190445.jpg)
 ---
 
 # Adding Income
@@ -150,7 +161,7 @@ To add a new income entry:
 2. Click the **+ (Add)** button
 3. Enter income details
 4. Click **Save**
-
+![Add button](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190452.jpg)
 Examples:
 
 * Salary
@@ -170,7 +181,7 @@ To add a new expense:
 3. Enter expense details
 4. Select category
 5. Click **Save**
-
+![Add button](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190452.jpg)
 For best results, record expenses immediately after spending.
 
 Examples:
@@ -196,6 +207,8 @@ or
 1. Select one or more entries
 2. Click Delete
 
+![test](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190616.jpg)
+
 ---
 
 # Restoring Deleted Entries
@@ -211,6 +224,11 @@ Steps:
 
 The entry will be restored to active records.
 
+![deleted entry](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190633.jpg)
+![select](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190708.jpg)
+![buttons](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190714.jpg)
+![restored](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190725.jpg)
+
 ---
 
 # Viewing Monthly Dashboard
@@ -222,6 +240,7 @@ To view financial insights for any month:
 3. Edit the Year field
 4. Save the selection
 
+![dashboard](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190747.jpg)
 The dashboard will automatically refresh and display:
 
 * Total Income
@@ -230,6 +249,8 @@ The dashboard will automatically refresh and display:
 * Category Analysis
 * Monthly Trends
 
+![example](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190816.jpg)
+![exampe 1](https://github.com/sureshslvr/Smart-Money-Manager/blob/efd695d64a2a098b950668331e1eeb0204db55fa/screenshots/Screenshot_20260620-190855.jpg)
 ---
 
 # Recommended Usage
@@ -249,20 +270,6 @@ For accurate financial insights:
 The more accurately you record transactions, the more valuable the dashboard becomes.
 
 ---
-
-# Screenshots
-
-Refer to the screenshots folder for:
-
-* App Setup
-* Editing Salary
-* Adding Expenses
-* Adding Income
-* Restoring Deleted Entries
-* Dashboard Overview
-
----
-
 # Support
 
 If you find any issues or have suggestions for improvements, feel free to create an issue in this repository.
