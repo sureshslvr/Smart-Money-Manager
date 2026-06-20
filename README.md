@@ -86,8 +86,10 @@ https://www.appsheet.com/Template/AppDef?appName=InventoryManagementTemplate-555
 1. Click **Copy App**
 ![copy app](https://github.com/sureshslvr/Smart-Money-Manager/blob/161e03de5b208baa3f43f87762ce629e68f4daf2/screenshots/click%20on%20copy%20app%20.jpg)
 2. Select **Copy App Details**
+![Copy App Details](https://github.com/sureshslvr/Smart-Money-Manager/blob/5f08c22ef304a2718d3c3902faf2748cb9413e62/screenshots/2%20select%20copy%20app%20deatils.jpg)
 3. Click **Copy App**
 4. Wait for AppSheet to create your personal copy
+![after copy app](https://github.com/sureshslvr/Smart-Money-Manager/blob/5f08c22ef304a2718d3c3902faf2748cb9413e62/screenshots/3%20after%20copiying%20app.jpg)
 
 ---
 
