@@ -2,6 +2,7 @@
 
 ## Why This App Exists
 
+Other expense tracking apps drawback:
 Most expense tracking solutions focus on subscriptions, premium features, advertisements, or storing your financial data on third-party systems.
 
 This app was built with a different goal:
