@@ -1,9 +1,9 @@
 # 💰 Smart Money Manager - Free AppSheet Template
 
-## Why This App Exists
-
-Other expense tracking apps drawback:
+## Other expense tracking apps drawback:
 Most expense tracking solutions focus on subscriptions, premium features, advertisements, or storing your financial data on third-party systems.
+
+## Why This App Exists 
 
 This app was built with a different goal:
 
