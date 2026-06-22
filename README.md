@@ -1,4 +1,4 @@
-# 💰 Smart Money Manager - Free AppSheet Template
+# 💰 # Smart Money Manager - Personal Finance & Expense Tracker App
 
 ## Other expense tracking apps drawback:
 Most expense tracking solutions focus on subscriptions, premium features, advertisements, or storing your financial data on third-party systems.
